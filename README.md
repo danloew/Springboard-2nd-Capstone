@@ -8,5 +8,6 @@ This project uses publicly available data from [sources] to build predictive mac
 The x Jupyter notebooks that are needed to run the project are located at the following links:
 
 - 2nd_Capstone_Cancer_Initial_Look: 
+
 https://github.com/danloew/Springboard-2nd-Capstone/blob/master/2nd_Capstone_Cancer_Initial_Look.ipynb
   - provides basic frequency distributions for all features native to the original dataset.
