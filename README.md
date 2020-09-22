@@ -7,8 +7,9 @@ This project uses publicly available data from [sources] to build predictive mac
 
 The x Jupyter notebooks that are needed to run the project are located at the following links:
 
-- 2nd_Capstone_Cancer_Initial_Look: 
-
-  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/2nd_Capstone_Cancer_Initial_Look.ipynb
+- Data Cleaning:
+  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_Data_Cleaning.ipynb
   
-    - provides basic frequency distributions for all features native to the original dataset.
+  - The file name is 'Cancer_Data_Cleaning.ipynb'.
+  - This notebook uses a data set of socioeconomic indicators and cancer mortality rates for the year 2015 for 3,047 out of 3,141 total U.S. counties (97%    of all U.S. counties and county equivalents), which came came pre-assembled as a data science challenge from three sources: the American Community Survey (census.gov), clinicaltrials.gov, and cancer.gov. It was downloaded from https://data.world/exercises/linear-regression-exercise-1​. The assemblage process can be examined at ​https://data.world/nrippner/cancer-trials​. The data dictionaries are located at https://data.world/exercises/linear-regression-exercise-1/workspace/data-dictionary​.
+    
