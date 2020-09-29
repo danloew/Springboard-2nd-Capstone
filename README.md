@@ -17,4 +17,11 @@ The x Jupyter notebooks that are needed to run the project are located at the fo
   - The latitude/longitude coordinates of each of eight major urban centers were found via Google search.
   - The latitude and longitude coordinates of each EPA-designated Superfund Cleanup site were downloaded from the EPA's website at https://semspub.epa.gov/work/HQ/201261.pdf. The file had an embedded Excel spreadsheet that was converted into csv; only the name of the site, the latitude, and the longitude were kept.
   - Because one's access to quality food can influence one's risk for cancer, a series of features describing the food environment of each county is concatenated into the DataFrame. The source of this data is from research done by the USDA and is called the Food Environment Atlas, available from https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#August%202015%20Version .
-    
+  
+ - Logarithmic and Exponential Transformations of the Feature Set (parts 1 through 4):
+ https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_1.ipynb
+ https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_2.ipynb
+ https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_3.ipynb
+ https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_4.ipynb
+  - Logarithmic and exponential transformations of the feature set were tested for their contribution to the overall model’s accuracy, and added to the feature set if they increased this accuracy. 
+
