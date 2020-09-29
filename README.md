@@ -5,7 +5,7 @@ Title: "Predicting Cancer Mortality in United States Counties: 2015"
 
 This project uses publicly available data from [sources] to build predictive machine learning regression models of cancer mortality at the U.S. county level, providing Ridge  Regression coefficients which illuminate the features that have the strongest statistical relationship with cancer mortality rates. The Jupyter notebooks, data sources, technical requirements for reproducing the results, and reports for this project are specified below. The results of this project, including evaluation metrics of the machine learning models and Ridge Regression coefficients, are reported in the Overall Capstone Project Report linked to below.
 
-The x Jupyter notebooks that are needed to run the project are located at the following links:
+The 10 Jupyter notebooks that are needed to run the project are located at the following links:
 
 - Data Cleaning:
   https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_Data_Cleaning.ipynb
@@ -27,4 +27,23 @@ The x Jupyter notebooks that are needed to run the project are located at the fo
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_3.ipynb
  
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_4.ipynb 
+ 
+ A log tracking the contribution each transformed feature had on the model's overall accuracy is found here:
+ 
+ https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_Log_Exp_Accuracy_Log.xls
 
+- Visual Exporatory Data Analysis (EDA): https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_Visual_EDA.ipynb
+
+- Hypothesis Testing Data Story: https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_DataStory_HT.ipynb
+
+- Machine Learning Using Unscaled Data: https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_ML_unscaled.ipynb
+
+- Machine Learning Using Scaled Data: https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_ML_scaled.ipynb
+
+- Hyperparameter Tuning Table: https://github.com/danloew/Springboard-2nd-Capstone/blob/master/HP%20tuning%20table%20-%202nd%20Capstone_Loew.xlsx
+
+- Notebook Exploring the Best Performing Machine Learning Model's Coefficients: https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_Best_Model_Coefficients.ipynb
+
+The second milestone report and the final report are located at the following two locations:
+
+- https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Project_%20Capstone%202_%20Milestone%20Report%202%20Dan%20Loew.pdf
