@@ -47,3 +47,9 @@ The 10 Jupyter notebooks that are needed to run the project are located at the f
 The second milestone report and the final report are located at the following two locations:
 
 - https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Project_%20Capstone%202_%20Milestone%20Report%202%20Dan%20Loew.pdf
+
+- https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_Capstone%202_Final_Submission_Dan_Loew.pdf
+
+A slide deck summarizing the project's findings is located here:
+
+https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Predicting%20Cancer%20Mortality%20in%20U.S.%20Counties_%202015.pdf
