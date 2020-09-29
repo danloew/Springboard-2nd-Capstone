@@ -19,6 +19,7 @@ The x Jupyter notebooks that are needed to run the project are located at the fo
   - Because one's access to quality food can influence one's risk for cancer, a series of features describing the food environment of each county is concatenated into the DataFrame. The source of this data is from research done by the USDA and is called the Food Environment Atlas, available from https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/#August%202015%20Version .
   
  - Logarithmic and Exponential Transformations of the Feature Set (parts 1 through 4):
+ 
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_1.ipynb
  
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_2.ipynb
@@ -27,5 +28,5 @@ The x Jupyter notebooks that are needed to run the project are located at the fo
  
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_4.ipynb
  
-    - Logarithmic and exponential transformations of the feature set were tested for their contribution to the overall model’s accuracy, and added to the feature set if they increased this accuracy. 
+  - Logarithmic and exponential transformations of the feature set were tested for their contribution to the overall model’s accuracy, and added to the feature set if they increased this accuracy. 
 
