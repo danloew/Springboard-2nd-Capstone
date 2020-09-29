@@ -20,8 +20,12 @@ The x Jupyter notebooks that are needed to run the project are located at the fo
   
  - Logarithmic and Exponential Transformations of the Feature Set (parts 1 through 4):
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_1.ipynb
+ 
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_2.ipynb
+ 
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_3.ipynb
+ 
  https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Cancer_LogExp_Expansion_4.ipynb
-  - Logarithmic and exponential transformations of the feature set were tested for their contribution to the overall model’s accuracy, and added to the feature set if they increased this accuracy. 
+ 
+    - Logarithmic and exponential transformations of the feature set were tested for their contribution to the overall model’s accuracy, and added to the feature set if they increased this accuracy. 
 
