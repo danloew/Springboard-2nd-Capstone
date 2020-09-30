@@ -53,3 +53,5 @@ The second milestone report and the final report are located at the following tw
 A slide deck summarizing the project's findings is located here:
 
 https://github.com/danloew/Springboard-2nd-Capstone/blob/master/Predicting%20Cancer%20Mortality%20in%20U.S.%20Counties_%202015.pdf
+
+The file called "requirements.txt" details all of the software requirements needed to run the Jupyter notebooks. 
